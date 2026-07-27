@@ -18,11 +18,26 @@
 
 ## 📊 GitHub Stats
 
+<!-- Animated Header -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vanshgupta9090&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshgupta9090&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Vansh+Gupta;Computer+Science+Student;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" />
 </p>
 
+<!-- GitHub Stats -->
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vanshgupta9090&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshgupta9090&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vanshgupta9090&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshgupta9090&theme=tokyo-night&hide_border=true"/>
+</p>
 ---
 
 ## 🔥 GitHub Streak
