@@ -26,15 +26,7 @@
 
 # 👨‍💻 About Me
 
-```cpp
-class VanshGupta {
-public:
-    string education = "B.Tech CSE";
-    string interests = "Web Development | DSA | Open Source";
-    string currentlyLearning = "React, Node.js";
-    string goal = "Software Engineer";
-};
-```
+
 
 - 🎓 B.Tech in **Computer Science & Engineering**
 - 💻 Passionate about **Web Development & Competitive Programming**
@@ -45,15 +37,38 @@ public:
 
 ---
 
-# 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,html,css,js,react,nodejs,git,github,vscode,mysql&perline=7"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,linux&perline=8" />
 
 </p>
 
 ---
+
+## 🌐 Coding Profiles
+
+<p align="center">
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://codeforces.com/">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+</p>
+
+---
+
 
 # 📊 GitHub Statistics
 
@@ -102,23 +117,6 @@ public:
 | 📚 College Projects | Academic and personal development projects |
 
 ---
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/vanshgupta9090">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://vanshgupta9090.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-</p>
-
----
-
 # 💡 Quote
 
 <p align="center">
