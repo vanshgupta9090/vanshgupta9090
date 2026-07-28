@@ -132,7 +132,7 @@
 ### ⭐ Thanks for visiting my profile!
 
 If you like my work, consider giving a ⭐ to my repositories.
-
+---
 </p>
 
 <p align="center">
