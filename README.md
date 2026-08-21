@@ -50,7 +50,7 @@
 ## 🌐 Coding Profiles
 
 <p align="center">
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/Vansh--gupta/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
@@ -58,11 +58,11 @@
 <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/">
+<a href="https://www.codechef.com/users/vansh_gupta18">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/">
+<a href="https://www.hackerrank.com/profile/vanshgupta1628">
 <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 </p>
